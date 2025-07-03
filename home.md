@@ -34,9 +34,8 @@ Below are a few images that reflect who I am and what I love:
 
 | Triathlon Training 🏊‍♀️ | Climbing Adventure 🧗‍♀️ | Teaching Roots 👩‍🏫 |
 |-------------------------|--------------------------|-----------------------|
-| ![Swim](assets/images/triathlon.jpg) | ![Climb](assets/images/climbing.jpg) | ![Teach](assets/images/teaching.jpg) |
+| ![Swim](assets/images/swim.png) | ![Climb](assets/images/climbing.png) | ![Teach](assets/images/teaching.png) |
 
-> Tip: Upload your images to `assets/images/` and name them `triathlon.jpg`, `climbing.jpg`, and `teaching.jpg`.
 
 ---
 
@@ -44,4 +43,4 @@ Below are a few images that reflect who I am and what I love:
 
 - 📧 **Email**: naomi.b.harvey@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/naomi-harvey-masters-in-education-and-self-taught-software-developer)  
-- 💻 [GitHub](https://github.com/yourusername)  
+- 💻 [GitHub](https://github.com/nbharvey)  
