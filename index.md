@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Home
+---
 # 👋 Welcome — I'm Naomi Harvey!
 
 I’m a software developer with a creative heart, a teacher’s mindset, and an adventurer’s spirit. After 6+ years in education, I transitioned into tech to build tools that empower people to learn, grow, and thrive.
