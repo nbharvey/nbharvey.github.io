@@ -1,7 +1,3 @@
----
-layout: default
-title: Contact
----
 
 # Get In Touch
 
