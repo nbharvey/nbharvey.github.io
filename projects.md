@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Projects
+---
 # Project Work
 
 ## 🧠 Naomi's Bookshelf App
