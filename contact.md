@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Contact
+---
 # Get In Touch
 
 - 📧 Email: naomi.b.harvey@gmail.com
