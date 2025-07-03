@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m Naomi (nbharvey)
 
+![Cartoon Naomi](assets/images/cartoon-naomi.png)
+
 👀 I'm passionate about full-stack development, building creative and purposeful web apps from both the front and back ends.
 - 🌱 Currently sharpening my frontend skills with React, Tailwind CSS, and Figma, while also learning backend fundamentals with Java, SQL, and Spring Boot. I'm growing as a developer through hands-on experience and mentorship with [LaunchCode](https://www.launchcode.org/).
 - 🤝 I’m open to collaborating on beginner-friendly projects—especially those that align with education, wellness, or sustainability.
