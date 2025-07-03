@@ -34,7 +34,7 @@ Below are a few images that reflect who I am and what I love:
 
 | Triathlon Training 🏊‍♀️ | Climbing Adventure 🧗‍♀️ | Teaching Roots 👩‍🏫 |
 |-------------------------|--------------------------|-----------------------|
-| ![Swim](assets/images/swim1.png) | ![Climb](assets/images/climbing.png) | ![Teach](assets/images/teaching.png) |
+| ![Swim](assets/images/swim1.jpg) | ![Climb](assets/images/climbing.png) | ![Teach](assets/images/teaching.png) |
 
 
 ---
